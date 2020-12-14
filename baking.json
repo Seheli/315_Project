@@ -9,7 +9,7 @@
          "PrepTime":"25 mins",
          "CookTime":"1 1/2 hr",
          "RecipeImage":"https://assets.bonappetit.com/photos/57ace87053e63daf11a4db64/16:9/w_2560%2Cc_limit/blueberry-ginger-pie.jpg",
-         "Servings":"8"
+         "Servings":"serves 8"
       },
       {
          "RecipeName":"Back of the Bag Oatmel Bread",
@@ -31,7 +31,7 @@
          "PrepTime":"1 hr",
          "CookTime":"25-45 mins",
          "RecipeImage":"https://www.kingarthurbaking.com/sites/default/files/styles/featured_image_2x/public/recipe_legacy/9918-3-large.jpg?itok=1ayRlRgR",
-         "Servings":"20"
+         "Servings":"serves about 20"
       },
       {
          "RecipeName":"Best Banana Bread",
@@ -42,7 +42,7 @@
          "PrepTime":"10 mins",
          "CookTime":"1 hr",
          "RecipeImage":"https://cdn.greatlifepublishing.net/wp-content/uploads/sites/2/2020/08/26120214/Chrissy-Teigens-Banana-Bundt-Bread-Vertical-22-of-25-728x925.jpg",
-         "Servings":"8"
+         "Servings":"serves 8"
       },
       {
          "RecipeName":"Pretzel + Potato Chip Moon Pies",
@@ -53,18 +53,18 @@
          "PrepTime":"30-40 mins",
          "CookTime":"35 mins",
          "RecipeImage":"https://assets.bonappetit.com/photos/5fb7e3b034a2d47d9b5f667b/16:9/w_2560%2Cc_limit/1220-Cookies-pretzel-potato-chip-moon-pies.jpg",
-         "Servings":"18"
+         "Servings":"serves 18"
       },
       {
          "RecipeName":"Chocolate Cheesecake Flan",
          "RecipeDescription":"This Chocolate Cheesecake Flan is an elegant dessert, combining chocolate and caramel in a flan form. ",
-         "BakeType":"Cake",
+         "BakeType":"serves Cake",
          "RecipeURL":"https://www.homecookingadventure.com/recipes/chocolate-cheesecake-flan",
          "TotalTime":"1 hr + chilling time",
          "PrepTime":"15 mins",
          "CookTime":"45 mins",
          "RecipeImage":"https://i.ytimg.com/vi/oY159AKo964/maxresdefault.jpg",
-         "Servings":"10-12"
+         "Servings":"serves 10-12"
       },
       {
          "RecipeName":"Hummingbird Cake",
@@ -75,7 +75,7 @@
          "PrepTime":"40 mins",
          "CookTime":"25 mins",
          "RecipeImage":"https://i.ytimg.com/vi/YKfMq1_yOsA/maxresdefault.jpg",
-         "Servings":" 12-14"
+         "Servings":"serves 12-14"
       },
       {
          "RecipeName":"Sourdough Popovers",
@@ -85,7 +85,8 @@
          "TotalTime":"35 mins + chilling time",
          "PrepTime":"5 mins",
          "CookTime":"30-35 mins",
-         "RecipeImage":"https://www.kingarthurbaking.com/sites/default/files/styles/featured_image_2x/public/2020-03/sourdough-popovers.jpg?itok=69kP1bgH"
+         "RecipeImage":"https://www.kingarthurbaking.com/sites/default/files/styles/featured_image_2x/public/2020-03/sourdough-popovers.jpg?itok=69kP1bgH",
+         "Servings":"6 popovers"
       },
       {
          "RecipeName":"Lemon Poppy Seed Muffins",
@@ -96,7 +97,7 @@
          "PrepTime":"7 mins",
          "CookTime":"20 mins",
          "RecipeImage":"https://www.kingarthurbaking.com/sites/default/files/styles/featured_image_2x/public/2019-08/LemonPoppySeedMuffinsC15W.jpg?itok=dJ5ecE6m",
-         "Servings":"12"
+         "Servings":"serves 12"
       },
       {
          "RecipeName":"Garlic Cheese Monkey Bread",
